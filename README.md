@@ -30,7 +30,7 @@ Tenho uma conexão muito grande com a tecnologia desde que me conheço por gente
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=7kfelix&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=7kfelix&show_icons=true&theme=tokyonight" 
   />
 
 <img 
