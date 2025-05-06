@@ -6,8 +6,6 @@ Meu nome é Marcelo Felix do Vale, tenho 21 anos e sou Paulistano, nascido, cres
 
 Atualmente estou cursando Ciência da Computação na UNIP.
 
-Tenho uma conexão muito grande com a tecnologia desde que me conheço por gente e sonho em ser importante para evolução da área.
-
 ## 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
